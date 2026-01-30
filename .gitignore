@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+# Below is the foldername for opencv, link opencv android sdk accordingly. Foldername being sdk is essential
+/sdk 
+/captures
+.externalNativeBuild
+.cxx
+local.properties
